@@ -5,8 +5,9 @@ I'm 14 years old and getting ready to study **Computer Systems Engineering**.
 ---
 
 💻 **What I know:**  
-– Python, JavaScript, HTML & CSS  
+– Python, LUA JavaScript, HTML & CSS  
 – Basic web development (frontend & backend)  
+- Roblox Development
 – Building websites and entertainment bots is my main strength  
 – Learning to build apps for PC and mobile  
 
