@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Alejandro
 
-I'm 14 years old and getting ready to study **Computer Systems Engineering**.
+I'm 15 years old and getting ready to study **Computer Systems Engineering**.
 
 ---
 
